@@ -1,26 +1,25 @@
 {
-  "cities": {
-    {
-      "id":"frankfurt",
-      "name":"frankfurt,
-      "country":"germany",
-      "from":"1",
-      "to":2,
-      "coordinates": {
-        "north":"3545 45 N",
-        "east":"1 1234 E"
-      }
-    },
-     {
-      "id":"dusseldorf",
-      "name":"dusseldorf,
-      "country":"germany",
-      "from":"1. mai",
-      "to":2,
-      "coordinates": {
-        "north":"3545 45 N",
-        "east":"1 1234 E"
-      }
-    }
-  }
+	"cities": [{
+			"id": "frankfurt",
+			"name": "frankfurt",
+			"country": "germany",
+			"from": "1",
+			"to": 2,
+			"coordinates": {
+				"north": "3545 45 N",
+				"east": "1 1234 E"
+			}
+		},
+		{
+			"id": "dusseldorf",
+			"name": "dusseldorf",
+			"country": "germany",
+			"from": "1. mai",
+			"to": 2,
+			"coordinates": {
+				"north": "3545 45 N",
+				"east": "1 1234 E"
+			}
+		}
+	]
 }
